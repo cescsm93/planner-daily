@@ -1,0 +1,186 @@
+{
+ "date": "2026-11-02",
+ "weekday": "周一",
+ "hero": {
+  "label": "MORNING BRIEF · 补发",
+  "title": "今天，先读一篇",
+  "subtitle": "【补发】11月2日期，事后补录；政策、AI工具各仅2条（窗口内未找到更多合格条目）。",
+  "pick": {
+   "section": "tools",
+   "index": 0
+  }
+ },
+ "sections": [
+  {
+   "id": "papers",
+   "name": "论文",
+   "items": [
+    {
+     "title": "尼泰罗伊公交网络基线：遥测与票务数据",
+     "source": "arXiv",
+     "meta": "arXiv:2610.40687 · NetMob 2026 数据",
+     "date": "2026-10-27",
+     "brief": "用车辆遥测和票务数据重建公交网络运行基线。",
+     "use": "公交线网优化前，可借鉴用运营数据建基线的方法。",
+     "detail": "",
+     "tags": [
+      "公交",
+      "运营数据"
+     ],
+     "url": "https://arxiv.org/abs/2610.40687",
+     "note": "预印本平台论文，未经同行评议"
+    },
+    {
+     "title": "CivicBench：4城市400个市政数据分析任务",
+     "source": "arXiv",
+     "meta": "arXiv:2611.01145",
+     "date": "2026-10-31",
+     "brief": "评测大模型完成城市公共数据分析任务的能力。",
+     "use": "评估AI做规划数据分析是否可靠时的参考基准。",
+     "detail": "",
+     "tags": [
+      "评测",
+      "公共数据"
+     ],
+     "url": "https://arxiv.org/abs/2611.01145",
+     "note": "预印本平台论文，未经同行评议"
+    },
+    {
+     "title": "NEIGHBOR：面向社区居民服务的大模型智能体",
+     "source": "arXiv",
+     "meta": "arXiv:2611.01836",
+     "date": "2026-11-01",
+     "brief": "在千万人口城市某区部署的社区服务智能体。",
+     "use": "了解社区服务智能体的实际部署效果。",
+     "detail": "",
+     "tags": [
+      "社区",
+      "智能体"
+     ],
+     "url": "https://arxiv.org/abs/2611.01836",
+     "note": "预印本平台论文，未经同行评议"
+    }
+   ]
+  },
+  {
+   "id": "policies",
+   "name": "政策",
+   "items": [
+    {
+     "title": "《合肥市城市更新条例》11月1日起施行",
+     "source": "澎湃新闻·政务",
+     "meta": "8章45条 · 10月16日公布",
+     "date": "2026-11-01",
+     "brief": "涵盖完整社区、自主更新原拆原建、容积率豁免与补足、规划许可豁免清单等。",
+     "use": "重点看第34、36、37条，可对照本地更新政策的容积率和许可豁免口径。",
+     "detail": "",
+     "tags": [
+      "城市更新条例",
+      "合肥"
+     ],
+     "url": "https://www.thepaper.cn/newsDetail_forward_34265423",
+     "flag": "外省"
+    },
+    {
+     "title": "英国发布全国规划审批授权方案（National Scheme of Delegation）",
+     "source": "GOV.UK",
+     "meta": "英国住房、社区和地方政府部",
+     "date": "2026-10-31",
+     "brief": "规定更多常规申请由规划官员直接审批，减少委员会审议。",
+     "use": "对照国内审批流程简化，关注其分级授权思路。",
+     "detail": "",
+     "tags": [
+      "审批改革",
+      "英国"
+     ],
+     "url": "https://www.gov.uk/government/news/faster-planning-decisions-as-new-rules-and-ai-tackle-delays",
+     "flag": "境外"
+    }
+   ]
+  },
+  {
+   "id": "cases",
+   "name": "案例",
+   "items": [
+    {
+     "title": "哈尔滨香坊中民街断头路打通",
+     "source": "凤凰网",
+     "meta": "285米 · 10月31日通车",
+     "date": "2026-11-01",
+     "brief": "搁置近20年的断头路打通通车。",
+     "use": "断头路专项治理的案例参考。",
+     "detail": "",
+     "tags": [
+      "断头路",
+      "哈尔滨"
+     ],
+     "url": "https://feng.ifeng.com/c/8xhKnPYmg7g",
+     "note": "※ 非官方来源"
+    },
+    {
+     "title": "深圳罗湖人民南二层连廊",
+     "source": "同花顺财经",
+     "meta": "约430米",
+     "date": "2026-11-01",
+     "brief": "建设二层风雨连廊，串联商业和交通节点。",
+     "use": "商圈慢行系统立体化改造的参考。",
+     "detail": "",
+     "tags": [
+      "慢行",
+      "连廊"
+     ],
+     "url": "https://news.10jqka.com.cn/20261101/c681325617.shtml",
+     "note": "※ 非官方来源"
+    },
+    {
+     "title": "长春人民大街南延全线贯通",
+     "source": "澎湃新闻",
+     "meta": "18.4公里 · 保留347棵落叶松",
+     "date": "2026-11-01",
+     "brief": "主干道延伸工程贯通，同时保留沿线树木。",
+     "use": "道路工程中保留既有树木的做法。",
+     "detail": "",
+     "tags": [
+      "道路",
+      "绿化保留"
+     ],
+     "url": "https://www.thepaper.cn/newsDetail_forward_34383032"
+    }
+   ]
+  },
+  {
+   "id": "tools",
+   "name": "AI工具",
+   "items": [
+    {
+     "title": "英国 PlanAssist 扩展至15个地方议会",
+     "source": "GOV.UK",
+     "meta": "联合 Google DeepMind · 2027年底覆盖英格兰全部议会",
+     "date": "2026-10-30",
+     "brief": "关键任务耗时减少58%，常规申请审批从8周缩至4周。",
+     "use": "规划审批辅助工具的落地成效数据可作参照。",
+     "detail": "",
+     "tags": [
+      "审批辅助",
+      "英国"
+     ],
+     "url": "https://www.gov.uk/government/news/faster-planning-decisions-as-new-rules-and-ai-tackle-delays"
+    },
+    {
+     "title": "济南可信数据空间AI助手“一撮”",
+     "source": "大众网",
+     "meta": "本地11297项、全国11446项数据资源",
+     "date": "2026-10-30",
+     "brief": "提供数据资源发现、场景建议和供需匹配。",
+     "use": "规划编制找数据时可了解此类数据空间入口。",
+     "detail": "",
+     "tags": [
+      "数据空间",
+      "济南"
+     ],
+     "url": "https://jinan.dzwww.com/qcxw/202610/t20261030_18256216.htm"
+    }
+   ]
+  }
+ ]
+}
